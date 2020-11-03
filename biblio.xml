@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE   biblio SYSTEM "biblio.dtd">
+<biblio>
+    <livre categorie="info" langue="fr">
+        <ISBN></ISBN>   
+        <auteur>
+            <nom></nom>
+            <identifiant></identifiant>
+            <identificateurs_publication>
+                <id_pub></id_pub>
+                <id_pub></id_pub>
+            </identificateurs_publication>
+        </auteur>
+        <titre></titre>
+        <resume></resume>
+        <date_publication></date_publication>
+    </livre>
+</biblio>
